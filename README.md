@@ -9,8 +9,13 @@ SalePrice - the property's sale price in dollars.
 The features are described in the "data_description.txt" file, and the latter file is included in the "data" folder. For the sake of brevity, I do not report the description of the features here, and I refer the reader to the "data_description.txt" file for the description of all the features.
 
 Some of the (regression) tecniques that I use to predict house prices are:
-Lasso regression, 
-Ridge regression, 
-SVR (Support Vector Regression), 
-Random Forest Regression,
+
+Lasso regression;
+
+Ridge regression;
+
+SVR (Support Vector Regression);
+
+Random Forest Regression;
+
 Polynomial Lasso regression. 
