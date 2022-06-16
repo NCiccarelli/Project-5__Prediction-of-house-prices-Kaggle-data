@@ -18,4 +18,4 @@ Some of the (regression) tecniques that I use to predict house prices are:
 
 - Polynomial Lasso regression. 
 
-Based on Kaggle's Leaderboard (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard), my RMSLE is lower than 62% of other submissions. That is, 62% of the submissions in Kaggle are less precise than my preferred model (Polynomial Lasso regression).
+Based on Kaggle's Leaderboard (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard), my RMSLE is lower than 62% of all submissions. That is, 62% of the submissions in Kaggle are less precise than my preferred model (Polynomial Lasso regression).
