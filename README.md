@@ -8,14 +8,14 @@ The features are described in the "data_description.txt" file, and the latter fi
 
 Some of the (regression) tecniques that I use to predict house prices are:
 
-Lasso regression;
+- Lasso regression;
 
-Ridge regression;
+- Ridge regression;
 
-SVR (Support Vector Regression);
+- SVR (Support Vector Regression);
 
-Random Forest Regression;
+- Random Forest Regression;
 
-Polynomial Lasso regression. 
+- Polynomial Lasso regression. 
 
 Based on Kaggle's Leaderboard (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard), my RMSLE is lower than 62% of other submissions. That is, 62% of the submissions in Kaggle are less precise than my preferred model (Polynomial Lasso regression).
